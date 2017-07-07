@@ -1,10 +1,12 @@
 # bea12-textquality
 Text quality estimation system (BEA12 workshop)
 
-This code implements the method described in
-*Transparent text quality assessment with convolutional neural networks*
-(to be published in the proceedings of The 12th Workshop on Innovative Use
-of NLP for Building Educational Applications, September 8th, Copenhagen).
+This code implements the method described in:
+
+  * Robert Östling and Gintare Grigonyte:
+    *Transparent text quality assessment with convolutional neural networks*
+    (to be published in the proceedings of The 12th Workshop on Innovative Use
+    of NLP for Building Educational Applications, September 8th, Copenhagen).
 
 ## Training
 
